@@ -1,6 +1,8 @@
 ![Header](https://github.com/tarasov001/tarasov001/blob/main/Assets/IT_Data_header-1617284178581.jpg)
 
-## I'm begginer Data Analyst
+## Hi there 👋
+
+### I'm begginer Data Analyst
 
 ### Language and Tools
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)
@@ -30,5 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
-https://www.linkedin.com/in/nikita-tarasov-06364b244/
