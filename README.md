@@ -1,4 +1,4 @@
-![Header](https://github.com/tarasov001/tarasov001/blob/main/Assets/1_Ra02AqsQlC0KV229EvM98g.jpg)
+![Header](https://github.com/tarasov001/tarasov001/blob/main/Assets/IT_Data_header-1617284178581.jpg)
 
 ### Hi there 👋
 
