@@ -14,7 +14,8 @@
 
 ### How to reach me
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/taraasov1)
-[![Vk](https://img.shields.io/badge/vk-grey?style=for-the-badge&logo=vk)](https://vk.com/id90818399)![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nikita-tarasov-06364b244/)
+[![Vk](https://img.shields.io/badge/vk-grey?style=for-the-badge&logo=vk)](https://vk.com/id90818399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nikita-tarasov-06364b244/)
 
 <!--
 
