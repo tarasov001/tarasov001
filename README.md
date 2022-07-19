@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-### I'm begginer Data Analyst
+### 📈I'm begginer Data Analyst
 
-### Language and Tools
+### 🛠Language and Tools
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)
 ![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-grey?style=for-the-badge&logo=NumPy)
@@ -14,7 +14,7 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-grey?style=for-the-badge&logo=seaborn)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
 
-### How to reach me
+### 📬How to reach me
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/taraasov1)
 [![Vk](https://img.shields.io/badge/vk-grey?style=for-the-badge&logo=vk)](https://vk.com/id90818399)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nikita-tarasov-06364b244/)
