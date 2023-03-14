@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### 📈I'm begginer Data Analyst
+### 📈I'm Data Analyst
 
 ### 🛠Language and Tools
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)
